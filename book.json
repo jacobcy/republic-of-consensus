@@ -1,0 +1,17 @@
+{
+  "title": "协商共和国",
+  "author": "Jacobcy",
+  "description": "一部关于复兴、忠诚与算法评估的美国故事。",
+  "language": "zh-hans",
+  "gitbook": "3.2.3",
+  "structure": {
+    "readme": "README.md"
+  },
+  "plugins": [
+    "highlight",
+    "search",
+    "fontsettings",
+    "livereload"
+  ],
+  "pluginsConfig": {}
+}
