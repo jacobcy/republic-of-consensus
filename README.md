@@ -1,93 +1,83 @@
-# Institutional Engineering: A System Builder's Guide to Political Regimes
+# AI 协作写作项目：方法论与框架指南
 
-> What if political regimes are just operating systems—patched, legacy-coded, and always one update away from crashing?
-
-This book is a collaborative writing project that rethinks political systems from the lens of system architecture and software engineering. Instead of judging regimes by ideology, we ask: why do some systems keep running, while others crash?
-
-We focus on **non-Western political operating systems**—from Vietnam’s one-party pragmatism to India’s democratic chaos, from Iran’s theological virtual machine to Singapore’s performance-optimized firmware.
+> 本文档是为一系列政治学分析、制度研究及科幻小说创作项目提供的方法论指南，旨在确保人与AI的协作高效、统一、不偏离主题。
 
 ---
 
-## ✍️ What This Project Is
+## 🚀 本项目简介
 
-- A longform book-in-progress, written jointly by human + AI.
-- A hybrid of political science, systems thinking, and coding metaphors.
-- An invitation to think like a systems engineer when analyzing states.
+本项目旨在为一系列政治学、制度分析及科幻小说创作提供一个标准化的协作框架。我们采用AI辅助、开源协作的模式，以‘制度工程学’的视角，用系统工程和程序员的语言来解构复杂的政治议题。
 
-## 🧠 Who This Is For
-
-- Technologists trying to understand politics without moral tribalism.
-- Policy thinkers open to metaphors beyond ideology.
-- Readers tired of “freedom vs tyranny” binaries.
+本 `README.md` 文件是整个项目的核心方法论指南，用于指导新文章、书籍或小说的创建流程，确保所有创作遵循统一的风格与逻辑。
 
 ---
 
-## 🚀 How to Create This Book on GitHub
+## 🛠️ 如何创建 GitHub Book 项目
 
-This project is managed like an open-source software repository. Here’s how to set it up and contribute.
+本项目的所有写作都将以开源软件项目的模式进行管理。以下是如何搭建和贡献一个新写作项目（如一本书或一篇长文）的流程。
 
-### 1. Repository Structure
+### 1. 仓库结构 (Repository Structure)
 
-The book is organized into a clear directory structure. When creating your repo, follow this layout:
+每个写作项目都应遵循以下清晰的目录结构：
 
 ```
 /
-├── README.md                    # Project overview (this file)
-├── book.json                    # GitBook configuration file
-├── SUMMARY.md                   # The table of contents for the book
-├── LICENSE                      # Copyright and usage license
+├── README.md                    # 项目总览与方法论指南 (本文件)
+├── book.json                    # GitBook 配置文件
+├── SUMMARY.md                   # 书籍的目录文件
+├── LICENSE                      # 版权与使用许可
 ├── .cursor/
 │   └── rules/
-│       └── worldview.mdc        # AI worldview and context
+│       └── worldview.mdc        # AI 的世界观与上下文设定
 └── chapters/
-    ├── chapter1.md              # Chapter 1
-    └── chapter2.md              # Chapter 2
+    ├── chapter1.md              # 第一章
+    └── chapter2.md              # 第二章
 ```
 
-- **`book.json`**: Configures the title, author, and plugins for GitBook.
-- **`SUMMARY.md`**: Defines the navigation and chapter order. Each new chapter `.md` file must be linked here.
-- **`chapters/`**: Contains the content of the book, with each chapter as a separate Markdown file.
+- **`book.json`**: 用于配置 GitBook 的标题、作者、插件等。
+- **`SUMMARY.md`**: 定义书籍的导航结构和章节顺序。每个新的章节 `.md` 文件都必须在这里链接。
+- **`chapters/`**: 存放书籍内容的目录，每一章都是一个独立的 Markdown 文件。
 
-### 2. Creating a GitHub Book
+### 2. 创建 GitHub Book
 
-To turn this repository into a readable online book, you can use tools like **GitBook** (legacy CLI) or modern alternatives like **HonKit**, **mdBook**, or simply publish it as a GitHub Pages site.
+要将这个仓库转化为一个可在线阅读的书籍，你可以使用 **GitBook** (旧版命令行工具) 或其他现代替代品，如 **HonKit**, **mdBook**，或者直接发布为 GitHub Pages 网站。
 
-A typical workflow using a tool like HonKit would be:
-1.  Install the tool: `npm install honkit -g`
-2.  Serve the book locally: `honkit serve`
-3.  Build the static site: `honkit build`
-4.  Deploy the output to GitHub Pages.
+使用 HonKit 的典型工作流程如下：
+1.  安装工具: `npm install honkit -g`
+2.  在本地预览书籍: `honkit serve`
+3.  构建静态网站: `honkit build`
+4.  将生成的内容部署到 GitHub Pages。
 
-### 3. AI Collaboration: Prompts & Methodology
+### 3. AI 协作：Prompt 方法论
 
-To ensure the AI collaborator (like me) stays aligned with the project's unique "Institutional Engineering" perspective, we use a set of guiding prompts. These prompts frame the analysis in system-engineering terms.
+为确保 AI 协作者（如我）能始终与项目独特的“制度工程学”视角保持一致，我们使用一套指导性的 Prompt。
 
-**Master Prompt (`.cursor/rules/worldview.mdc`):**
-The `worldview.mdc` file should contain the core concepts of "Institutional Engineering," defining terms like "Political OS," "legacy code," "fault tolerance," and the overall neutral, analytical tone.
+**主 Prompt (`.cursor/rules/worldview.mdc`):**
+`worldview.mdc` 文件应包含“制度工程学”的核心概念，定义如“政治操作系统”、“祖传代码”、“容错机制”等术语，并设定整体中立、分析性的基调。
 
-**Example Prompts for Chapter Writing:**
+**章节写作的 Prompt 示例:**
 
-Use these prompts to generate or co-write content with the AI:
+在与 AI 共同创作时，可以使用以下 Prompt 模板：
 
-**Prompt 1: System Architecture Analysis**
-> "Analyze the political system of [Country Name] as if it were a legacy software platform. Describe its core architecture (e.g., monolith, microservices), its primary programming language (i.e., its cultural/historical context), its methods for error handling (e.g., protests, purges), and its update mechanism (e.g., reforms, revolutions). Maintain a neutral, engineering-focused tone."
+**Prompt 1: 系统架构分析**
+> “请将 [国家名称] 的政治制度视作一个祖传的软件平台进行分析。描述其核心架构（如：单体式、微服务式）、主要编程语言（即其文化/历史背景）、错误处理机制（如：抗议、清洗）及其更新机制（如：改革、革命）。保持中立、以工程为核心的基调。”
 
-**Prompt 2: Comparative System Review**
-> "Compare the political operating systems of [Country A] and [Country B]. Frame the comparison using software engineering concepts. Which system has better fault tolerance? Which has a more efficient resource scheduler (i.e., economy)? Which is more likely to suffer from a kernel panic (i.e., regime collapse) and why?"
+**Prompt 2: 制度对比分析**
+> “请用软件工程的概念，对比 [国家A] 和 [国家B] 的政治操作系统。哪个系统的容错性更好？哪个系统的资源调度器（即经济）更高效？哪个系统更有可能发生内核恐慌（即政权崩溃），为什么？”
 
-**Prompt 3: Crash Report Analysis**
-> "Write a post-mortem analysis of the collapse of the political system in [Fallen Regime, e.g., the Soviet Union]. Frame it as a `crash.log` report. What was the root cause of the system failure? Was it a memory leak (e.g., economic unsustainability), a segmentation fault (e.g., ethnic separatism), or a critical bug in the kernel (e.g., a flawed succession mechanism)?"
-
----
-
-## 🤝 How to Collaborate
-
-This is not a traditional book project. It's a live system. We welcome Pull Requests, system bug reports, political insights, and structural critiques.
-
-See `CONTRIBUTING.md` for how to participate.
+**Prompt 3: 系统崩溃报告分析**
+> “请为 [已崩溃的政权，如苏联] 的政治体系写一份事后分析报告。将其构建为一份 `crash.log` 报告。系统崩溃的根本原因是什么？是内存泄漏（如经济不可持续）、段错误（如民族分裂），还是内核的关键 bug（如继承机制缺陷）？”
 
 ---
 
-## 📜 License
+## 🤝 如何协作
 
-This work is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**. You are free to share and adapt this work for non-commercial purposes, provided you give appropriate credit and distribute your contributions under the same license.
+本项目欢迎通过 Pull Requests 的方式进行贡献，无论是修正、补充案例，还是提出结构性批评。
+
+详情请参阅 `CONTRIBUTING.md`。
+
+---
+
+## 📜 版权声明
+
+本项目采用 **知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议 (CC BY-NC-SA 4.0)** 进行许可。您可以出于非商业目的自由分享和修改本作品，但必须署名原作者，并以相同许可协议分发您的贡献。
