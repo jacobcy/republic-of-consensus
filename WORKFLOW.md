@@ -32,7 +32,7 @@
 - **人类创作者任务**: 
     - 提出影响世界基本规则、核心技术、政治构架的宏大新创意。
     - 调整故事主线、核心情节、三幕结构。
-    - 更新 `worldbuilding/core.md`, `glosory.md`, `organization.md` 等相关文件。
+    - 更新 `worldbuilding/core.md`, `glosory.md`, `organization_*.md` 等相关文件。
     - 修改 `OUTLINE.md`，反映新的故事走向和章节规划。
 - **AI辅助**: 
     - 根据人类创作者提出的宏观概念，提供多角度的**创意发散**（例如：针对某个社会问题，AI可以提供多种荒诞的解决方案，或不同AI系统可能产生的冲突点）。

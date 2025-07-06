@@ -19,10 +19,13 @@ This directory contains the core world-building elements for the *Republic of Co
 - Government and institutional terminology
 - Cultural and social concepts
 
-### **organization.md** - Institutions and Organizations
-- Government structures and hierarchies
-- Corporate entities and their roles
-- Resistance movements and underground networks
+### **organization_acr.md** - Institutions and Organizations (ACR)
+- Government structures and hierarchies of the American Consensus Republic
+- Corporate entities and their roles within ACR
+
+### **organization_cafs.md** - Institutions and Organizations (CAFS)
+- Government structures and hierarchies of the Confederacy of American Free States
+- Resistance movements and underground networks related to CAFS
 
 ### **politics.md** - Political Legacy and Hidden Forces
 - Pre-revolution political landscape

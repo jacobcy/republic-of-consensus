@@ -46,12 +46,13 @@ manuscript/
 ```
 worldbuilding/
 ├── core.md                     # 核心世界观设定
-├── life_in_2038.md             # 2038年生活图景
+├── life.md                     # 2038年生活图景
 ├── timeline.md                 # 历史与角色时间线
-├── politics.md                 # 旧世界的政治遗产与潜伏势力
+├── politics.md                 # 宏观政治
 ├── charactor.md                # 角色设定和传记
 ├── glosory.md                  # 术语词汇表
-└── organization.md             # 机构和组织设定
+├── organization_acr.md         # 组织机构：ACR阵营
+└── organization_cafs.md        # 组织机构：CAFS阵营
 ```
 
 ### prompts/ - AI创作提示

@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a creative writing project for a Chinese political black comedy novel "协商共和国" (Republic of Consensus) - a philosophical allegory about AI-era governance. The project explores themes of technology, authoritarianism, and democracy through satirical fiction set in a fictional "North Virginia Demonstration Zone."
+This is a creative writing project for a Chinese political black comedy novel "协商共和国" (Republic of Consensus) - a philosophical allegory about AI-era governance. The project explores themes of technology, authoritarianism, and democracy through satirical fiction set in a world divided by a "Civilizational Contest" between the American Consensus Republic (ACR) and the Confederacy of American Free States (CAFS). The ACR, a technologically advanced society, views itself as the vanguard of human evolution, while CAFS represents the "old civilization" being left behind.
 
 ## Key Documentation Files
 
@@ -19,6 +19,11 @@ This is a creative writing project for a Chinese political black comedy novel "�
 - **ROADMAP.md** - Creative progress and planning
 - **resources/style.md** - Writing style guide
 - **resources/quality_control.md** - Quality control handbook
+- **worldbuilding/politics.md** - Political legacy and hidden forces
+- **worldbuilding/timeline.md** - Historical timeline
+- **worldbuilding/life.md** - Daily Life in 2038 details
+- **worldbuilding/organization_acr.md** - Institutions and organizations of the ACR
+- **worldbuilding/organization_cafs.md** - Institutions and organizations of the CAFS
 
 ## Project Structure
 
@@ -29,10 +34,11 @@ worldbuilding/           # World-building documents
 ├── core.md             # Core worldview settings
 ├── charactor.md        # Character bios and profiles
 ├── glosory.md          # Terminology glossary
-├── organization.md     # Institutions and organizations
 ├── politics.md         # Political legacy and hidden forces
 ├── timeline.md         # Historical timeline
-└── life.md            # Life in 2038 details
+├── life.md             # Life in 2038 details
+├── organization_acr.md # Institutions and organizations of the ACR
+└── organization_cafs.md # Institutions and organizations of the CAFS
 prompts/                # AI writing prompts
 ├── 提示模板/            # Template prompts
 ├── 当前章节提示/        # Current chapter prompts
@@ -75,18 +81,18 @@ The project uses a three-tier quality control system:
 ## Character Consistency
 
 All characters must align with `worldbuilding/charactor.md` definitions:
-- **Stephen Hubbard** - NVPD cybercrime chief, pragmatic but conflicted
-- **Sarah Hubbard** - Represents old-world humanistic values
-- **David Hubbard** - Talented programmer whose software triggers the crisis
-- **Emily Hubbard** - Future-oriented, pragmatic daughter
-- **Sharon Williams** - Procedural bureaucrat, Stephen's main opponent
+- **Stephen Hubbard** - NVPD cybercrime chief, pragmatic but conflicted, caught between ACR's progress and CAFS's tradition.
+- **Sarah Hubbard** - Represents old-world humanistic values, struggling to preserve memory in a new era.
+- **David Hubbard** - Talented programmer whose software challenges the system's control.
+- **Emily Hubbard** - Future-oriented, pragmatic daughter, a true believer in ACR's vision.
+- **Sharon Williams** - Procedural bureaucrat, Stephen's main opponent, a staunch defender of ACR's purity.
 
 ## Worldbuilding Rules
 
-- **RESTORE AI** - The governing AI system that evaluates "systemic stability threats"
-- **Demonstration Zone** - High-tech controlled living area
-- **Traditional Reserves** - Old-world lifestyle preservation areas
-- **Consensus scoring systems** - Family Harmony Index (FUS), Social Harmony Index (SHI)
+- **RESTORE AI** - The governing AI system that evaluates "civilizational maladaptation"
+- **ACR (American Consensus Republic)** - The technologically advanced society, viewing itself as the vanguard of human evolution.
+- **CAFS (Confederacy of American Free States)** - The traditional society, representing the "old civilization" being left behind.
+- **Consensus scoring systems** - Family Harmony Index (FUS), Social Harmony Index (SHI), and Civilizational Adaptability Index (CAI)
 - All terminology must match `worldbuilding/glosory.md`
 
 ## Chapter Structure Requirements
