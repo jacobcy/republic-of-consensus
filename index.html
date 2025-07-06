@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>协商共和国：新世界的荣耀与梦想</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 3rem;
+            color: white;
+        }
+        
+        .title {
+            font-size: 3rem;
+            font-weight: 300;
+            margin-bottom: 1rem;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .subtitle {
+            font-size: 1.2rem;
+            opacity: 0.9;
+            font-style: italic;
+        }
+        
+        .content {
+            background: white;
+            border-radius: 12px;
+            padding: 3rem;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            margin-bottom: 2rem;
+        }
+        
+        .description {
+            font-size: 1.1rem;
+            text-align: center;
+            margin-bottom: 2rem;
+            color: #666;
+        }
+        
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin: 2rem 0;
+        }
+        
+        .feature {
+            padding: 1.5rem;
+            border-left: 4px solid #667eea;
+            background: #f8f9fa;
+            border-radius: 8px;
+        }
+        
+        .feature h3 {
+            color: #667eea;
+            margin-bottom: 0.5rem;
+        }
+        
+        .buttons {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            margin-top: 2rem;
+            flex-wrap: wrap;
+        }
+        
+        .btn {
+            padding: 12px 24px;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: 500;
+            transition: all 0.3s ease;
+        }
+        
+        .btn-primary {
+            background: #667eea;
+            color: white;
+        }
+        
+        .btn-secondary {
+            background: transparent;
+            color: #667eea;
+            border: 2px solid #667eea;
+        }
+        
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+        }
+        
+        .language-toggle {
+            position: absolute;
+            top: 2rem;
+            right: 2rem;
+            background: rgba(255,255,255,0.2);
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            color: white;
+            text-decoration: none;
+            backdrop-filter: blur(10px);
+        }
+        
+        .language-toggle:hover {
+            background: rgba(255,255,255,0.3);
+        }
+        
+        @media (max-width: 768px) {
+            .title {
+                font-size: 2rem;
+            }
+            
+            .buttons {
+                flex-direction: column;
+                align-items: center;
+            }
+            
+            .language-toggle {
+                position: static;
+                display: inline-block;
+                margin-bottom: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <a href="#" class="language-toggle" onclick="toggleLanguage()">🌐 English</a>
+    
+    <div class="container">
+        <div class="header">
+            <h1 class="title" id="title">协商共和国：新世界的荣耀与梦想</h1>
+            <p class="subtitle" id="subtitle">"在混乱中寻求秩序，在分歧中达成共识，在多元中实现统一。"</p>
+        </div>
+        
+        <div class="content">
+            <p class="description" id="description">
+                一部探索AI时代治理哲学的政治黑色幽默小说，通过虚构的"协商共和国"示范实验，思考技术与人性、秩序与自由的根本问题。
+            </p>
+            
+            <div class="features">
+                <div class="feature">
+                    <h3 id="feature1-title">🎭 政治黑色幽默</h3>
+                    <p id="feature1-desc">以严肃态度描述荒诞情况，在理性包装下展现制度的内在矛盾</p>
+                </div>
+                <div class="feature">
+                    <h3 id="feature2-title">🤖 AI时代治理哲学</h3>
+                    <p id="feature2-desc">探讨当技术让"理性专制"变得诱人时，民主的价值和人的尊严</p>
+                </div>
+                <div class="feature">
+                    <h3 id="feature3-title">🌍 双语创作</h3>
+                    <p id="feature3-desc">中英双语版本，AI辅助创作，开源协作的文学实验</p>
+                </div>
+                <div class="feature">
+                    <h3 id="feature4-title">📖 开放阅读</h3>
+                    <p id="feature4-desc">完整的世界观设定、创作工作流和质量控制体系</p>
+                </div>
+            </div>
+            
+            <div class="buttons">
+                <a href="manuscript/第一部分_协商共和国示范区/第1章_二级系统性稳定威胁.md" class="btn btn-primary" id="read-btn">开始阅读</a>
+                <a href="manuscript/第一部分_协商共和国示范区/Chapter1_Level-Two_Systemic_Stability_Threat_EN.md" class="btn btn-secondary" id="read-en-btn">Read in English</a>
+                <a href="https://github.com/jacobcy/republic-of-consensus" class="btn btn-secondary" id="github-btn">GitHub 仓库</a>
+                <a href="INSTRUCT.md" class="btn btn-secondary" id="about-btn">创作理念</a>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const translations = {
+            zh: {
+                title: "协商共和国：新世界的荣耀与梦想",
+                subtitle: ""在混乱中寻求秩序，在分歧中达成共识，在多元中实现统一。"",
+                description: "一部探索AI时代治理哲学的政治黑色幽默小说，通过虚构的"协商共和国"示范实验，思考技术与人性、秩序与自由的根本问题。",
+                "feature1-title": "🎭 政治黑色幽默",
+                "feature1-desc": "以严肃态度描述荒诞情况，在理性包装下展现制度的内在矛盾",
+                "feature2-title": "🤖 AI时代治理哲学", 
+                "feature2-desc": "探讨当技术让"理性专制"变得诱人时，民主的价值和人的尊严",
+                "feature3-title": "🌍 双语创作",
+                "feature3-desc": "中英双语版本，AI辅助创作，开源协作的文学实验",
+                "feature4-title": "📖 开放阅读",
+                "feature4-desc": "完整的世界观设定、创作工作流和质量控制体系",
+                "read-btn": "开始阅读",
+                "read-en-btn": "Read in English",
+                "github-btn": "GitHub 仓库",
+                "about-btn": "创作理念"
+            },
+            en: {
+                title: "Republic of Consensus: Glory and Dreams of the New World",
+                subtitle: ""Seeking order in chaos, reaching consensus in disagreement, achieving unity in diversity."",
+                description: "A political black comedy novel exploring AI-era governance philosophy through the fictional 'Consensus Republic' demonstration experiment, examining fundamental questions of technology and humanity, order and freedom.",
+                "feature1-title": "🎭 Political Black Comedy",
+                "feature1-desc": "Serious treatment of absurd situations, revealing institutional contradictions beneath rational packaging",
+                "feature2-title": "🤖 AI-Era Governance Philosophy",
+                "feature2-desc": "Exploring the value of democracy and human dignity when technology makes 'rational authoritarianism' tempting",
+                "feature3-title": "🌍 Bilingual Creation", 
+                "feature3-desc": "Chinese-English bilingual versions, AI-assisted creation, open-source literary experiment",
+                "feature4-title": "📖 Open Reading",
+                "feature4-desc": "Complete worldbuilding, creative workflow, and quality control systems",
+                "read-btn": "Start Reading (Chinese)",
+                "read-en-btn": "Read in English", 
+                "github-btn": "GitHub Repository",
+                "about-btn": "Creative Philosophy"
+            }
+        };
+
+        let currentLang = 'zh';
+
+        function toggleLanguage() {
+            currentLang = currentLang === 'zh' ? 'en' : 'zh';
+            const t = translations[currentLang];
+            
+            Object.keys(t).forEach(key => {
+                const element = document.getElementById(key);
+                if (element) {
+                    element.textContent = t[key];
+                }
+            });
+            
+            document.querySelector('.language-toggle').textContent = 
+                currentLang === 'zh' ? '🌐 English' : '🌐 中文';
+        }
+    </script>
+</body>
+</html>
