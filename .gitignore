@@ -1,8 +1,38 @@
-# Mac
+# OS generated files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
 
-# Node
-node_modules/
-
-# Editor
+# IDE files
 .vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build outputs
+_book/
+node_modules/
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Project specific
+repomix-output.txt
+
+# AI generated artifacts
+*.bak
+*.backup

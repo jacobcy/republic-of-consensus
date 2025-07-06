@@ -1,0 +1,31 @@
+{
+  "bundles": {
+    "gemini-571": {
+      "name": "GEMINI",
+      "description": "创作指南和世界观基准",
+      "configPath": ".repomix/config/GEMINI-repomix.config.json",
+      "created": "2025-07-05T17:07:49.790Z",
+      "lastUsed": "2025-07-05T17:19:15.752Z",
+      "tags": [
+        "小说创作",
+        "政治科幻",
+        "协商共和国"
+      ],
+      "files": [
+        "resources/quality_control.md",
+        "resources/style.md",
+        "worldbuilding/charactor.md",
+        "worldbuilding/core.md",
+        "worldbuilding/glosory.md",
+        "worldbuilding/life.md",
+        "worldbuilding/order.md",
+        "worldbuilding/organization.md",
+        "worldbuilding/politics.md",
+        "worldbuilding/timeline.md",
+        "OUTLINE.md",
+        "STRUCTURE.md",
+        "WORKFLOW.md"
+      ]
+    }
+  }
+}
