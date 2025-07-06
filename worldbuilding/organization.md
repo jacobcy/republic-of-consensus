@@ -48,7 +48,11 @@
 
 ---
 
-## III. 抵抗势力：三个战线
+## III. 抵抗势力：跨越分裂美国的三个战线
+
+> **详细信息请参阅**: [resistance_organizations.md](resistance_organizations.md) - 完整的抵抗组织架构分析
+
+在分裂的美国中，传统两党政治已被彻底抛弃。新的抵抗力量按**原则和价值观**重新组合，形成三个主要战线：
 
 ### 1. **宪政保守派 (The Constitutionalists)**
 - **核心人物**: **马库斯·哈伯德 (Marcus Hubbard)**，前参议院共和党党鞭，斯蒂芬的叔叔。
