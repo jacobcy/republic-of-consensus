@@ -40,7 +40,7 @@ prompts/                # AI writing prompts
 resources/              # Writing resources
 ├── style.md            # Style guidelines
 ├── quality_control.md  # Quality control checklist
-└── memory.mdc          # Project memory archive
+└── memory.md          # Project memory archive
 ```
 
 ## Creative Workflow

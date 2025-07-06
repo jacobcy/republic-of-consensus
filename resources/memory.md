@@ -1,9 +1,3 @@
----
-description: 
-globs: 
-alwaysApply: false
----
-
 
 ### 一、对抗专制的策略与“冲突的艺术”
 

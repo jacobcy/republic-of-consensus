@@ -69,7 +69,7 @@ prompts/
 resources/
 ├── style.md                    # 写作风格指南
 ├── quality_control.md          # 质量控制手册
-├── memory.mdc                  # 项目记忆存档
+├── memory.md                  # 项目记忆存档
 └── [其他参考资料]
 ```
 
