@@ -17,7 +17,7 @@
 ## 项目文档
 
 ### 核心文档
-- **[INSTURCT.md](INSTURCT.md)** - 创作意图和世界观设定 ⭐
+- **[INSTRUCT.md](INSTRUCT.md)** - 创作意图和世界观设定 ⭐
 - **[OUTLINE.md](OUTLINE.md)** - 故事大纲和情节框架
 - **[ROADMAP.md](ROADMAP.md)** - 创作进度和计划安排
 - **[STRUCTURE.md](STRUCTURE.md)** - 项目文件结构说明
@@ -33,18 +33,18 @@
 ## 快速开始
 
 ### 对于读者
-1. 阅读 [INSTURCT.md](INSTURCT.md) 了解世界观
+1. 阅读 [INSTRUCT.md](INSTRUCT.md) 了解世界观
 2. 查看 [OUTLINE.md](OUTLINE.md) 了解故事结构
 3. 从 `manuscript/` 目录开始阅读小说
 
 ### 对于创作者
-1. **必读**：[INSTURCT.md](INSTURCT.md) - 创作指导
+1. **必读**：[INSTRUCT.md](INSTRUCT.md) - 创作指导
 2. **参考**：[OUTLINE.md](OUTLINE.md) - 故事框架
 3. **跟踪**：[ROADMAP.md](ROADMAP.md) - 进度计划
 4. **导航**：[STRUCTURE.md](STRUCTURE.md) - 文件结构
 
 ### 对于AI协作
-1. 加载 [INSTURCT.md](INSTURCT.md) 作为主要指导
+1. 加载 [INSTRUCT.md](INSTRUCT.md) 作为主要指导
 2. 使用 `prompts/提示模板/` 中的标准化提示
 3. 参考 `worldbuilding/` 中的设定文档
 4. 遵循项目的创作规范和风格指南

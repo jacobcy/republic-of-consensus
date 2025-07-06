@@ -1,5 +1,5 @@
 ---
-alwaysApply: true
+type: "always_apply"
 ---
 
 # 写作风格指南 (v3.1)

@@ -5,7 +5,7 @@
       "description": "创作指南和世界观基准",
       "configPath": ".repomix/config/GEMINI-repomix.config.json",
       "created": "2025-07-05T17:07:49.790Z",
-      "lastUsed": "2025-07-06T11:18:28.920Z",
+      "lastUsed": "2025-07-06T16:10:14.516Z",
       "tags": [
         "小说创作",
         "政治科幻",
@@ -27,7 +27,8 @@
         "worldbuilding/organization_acr.md",
         "worldbuilding/organization_cafs.md",
         "worldbuilding/README.md",
-        "worldbuilding/infrastructure.md"
+        "worldbuilding/infrastructure.md",
+        "worldbuilding/environment_details.md"
       ]
     }
   }
