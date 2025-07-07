@@ -151,7 +151,7 @@ Governmental power is distributed among five branches:
 
 **Supervisory Branch**: Maintains institutional integrity and investigates governmental misconduct.
 
-**Examination Branch**: Evaluates governmental performance through data analysis and outcome measurement.
+**Examination Branch**: Administers comprehensive assessment systems to evaluate citizen capabilities, determine merit-based resource allocation, and facilitate social mobility through standardized examinations.
 
 ### Section 2: Qualifications for Office
 Public officials must demonstrate both professional competence in their domain and fitness for public trust through established evaluation processes.
@@ -212,7 +212,23 @@ The state shall ensure just distribution of resources, preventing both destituti
 
 ---
 
-## Article VII: Amendment and Interpretation
+## Article VII: Examination and Merit Systems
+
+Section 1: National Examination Framework
+The Examination Branch shall establish and administer comprehensive assessment systems covering cognitive abilities, practical skills, and civic knowledge for all citizens.
+
+Section 2: Merit-Based Resource Distribution  
+Universal Basic Income and advanced educational opportunities shall be allocated based on demonstrated merit through standardized examination results, ensuring both basic dignity and incentive for excellence.
+
+Section 3: Social Mobility Mechanisms
+The examination system shall provide fair and transparent pathways for citizens to improve their social standing through demonstrated competence, regardless of background.
+
+Section 4: Independence and Integrity
+Examination standards, procedures, and results shall be maintained independently of political influence, ensuring public confidence in the merit-based system.
+
+---
+
+## Article VIII: Amendment and Interpretation
 
 ### Section 1: Amendment Process
 This Charter may be amended through procedures requiring broad consensus, expert review, and demonstration that proposed changes serve the constitutional purposes.
@@ -225,7 +241,7 @@ Temporary expansion of executive authority during emergencies requires approval 
 
 ---
 
-## Article VIII: Implementation
+## Article IX: Implementation
 
 ### Section 1: Transition
 This Charter takes effect immediately upon ratification. Existing institutions shall be reformed to conform to its provisions within two years.
