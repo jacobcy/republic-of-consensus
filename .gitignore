@@ -32,6 +32,7 @@ yarn-error.log*
 
 # Project specific
 repomix-output.txt
+GEMINI.md
 
 # AI generated artifacts
 *.bak
