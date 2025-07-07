@@ -24,6 +24,23 @@
 
 ### 世界构建
 - **[worldbuilding/](worldbuilding/)** - 世界观设定文档
+  - **`worldbuilding/core.md`** - 核心世界观
+  - **`worldbuilding/timeline.md`** - 历史年表
+  - **`worldbuilding/politics.md`** - 宏观政治
+  - **`worldbuilding/organization_acr.md`** - 组织机构：ACR阵营
+  - **`worldbuilding/organization_cafs.md`** - 组织机构：CAFS阵营
+  - **`worldbuilding/charactor.md`** - 角色传记
+  - **`worldbuilding/life.md`** - 社会风貌：两种生活图景
+  - **`worldbuilding/glosory.md`** - 术语词汇表
+  - **`worldbuilding/economic.md`** - 经济基础
+  - **`worldbuilding/ideology.md`** - 意识形态重构
+  - **`worldbuilding/environment.md`** - 环境与生态
+  - **`worldbuilding/infrastructure.md`** - 基础设施
+  - **`worldbuilding/order.md`** - 社会秩序
+  - **`worldbuilding/comment.md`** - 评论与反思
+  - **`worldbuilding/constitution.md`** - 协商共和国宪法
+  - **`worldbuilding/constitution_zh.md`** - 协商共和国宪法 (中文)
+  - **`worldbuilding/anti_constitution.md`** - cafs人本宣言
 - **[prompts/](prompts/)** - AI创作提示模板
 - **[resources/](resources/)** - 创作资源和参考资料
 

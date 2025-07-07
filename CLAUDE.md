@@ -10,20 +10,15 @@ This is a creative writing project for a Chinese political black comedy novel "�
 
 ### Essential Reading (Must Read First)
 - **INSTRUCT.md** - Project constitution defining core identity, worldview, and creative philosophy
-- **WORKFLOW.md** - Operational manual for human-AI collaborative writing workflow
 - **OUTLINE.md** - Story structure and plot framework
 - **STRUCTURE.md** - Project file organization and structure
 
 ### Supporting Documentation
+- **WORKFLOW.md** - Operational manual for human-AI collaborative writing workflow
 - **README.md** - Project introduction and quick start guide
 - **ROADMAP.md** - Creative progress and planning
 - **resources/style.md** - Writing style guide
 - **resources/quality_control.md** - Quality control handbook
-- **worldbuilding/politics.md** - Political legacy and hidden forces
-- **worldbuilding/timeline.md** - Historical timeline
-- **worldbuilding/life.md** - Daily Life in 2038 details
-- **worldbuilding/organization_acr.md** - Institutions and organizations of the ACR
-- **worldbuilding/organization_cafs.md** - Institutions and organizations of the CAFS
 
 ## Project Structure
 
@@ -32,13 +27,22 @@ manuscript/               # Novel chapters organized by parts
 ├── 第一部分_协商共和国示范区/  # Part 1: Demonstration Zone
 worldbuilding/           # World-building documents
 ├── core.md             # Core worldview settings
-├── charactor.md        # Character bios and profiles
-├── glosory.md          # Terminology glossary
-├── politics.md         # Political legacy and hidden forces
 ├── timeline.md         # Historical timeline
-├── life.md             # Life in 2038 details
+├── politics.md         # Political legacy and hidden forces
 ├── organization_acr.md # Institutions and organizations of the ACR
-└── organization_cafs.md # Institutions and organizations of the CAFS
+├── organization_cafs.md # Institutions and organizations of the CAFS
+├── charactor.md        # Character bios and profiles
+├── life.md             # Life in 2038 details
+├── glosory.md          # Terminology glossary
+├── economic.md         # Economic foundation
+├── ideology.md         # Ideological reconstruction
+├── environment.md      # Environment and ecology
+├── infrastructure.md   # Infrastructure
+├── order.md            # Social order
+├── comment.md          # Comments and reflections
+├── constitution.md     # ACR Constitution
+├── constitution_zh.md  # ACR Constitution (Chinese)
+├── anti_constitution.md # CAFS Human-Centered Manifesto
 prompts/                # AI writing prompts
 ├── 提示模板/            # Template prompts
 ├── 当前章节提示/        # Current chapter prompts

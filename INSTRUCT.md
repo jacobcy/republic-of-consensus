@@ -37,7 +37,7 @@
 
 本项目的创作将严格遵循以下核心原则，这些原则贯穿于世界观构建、情节设计、角色塑造及语言风格的方方面面。
 
-### **1. 世界观构建 (`worldbuilding/core.md`, `glosory.md`, `organization_*.md`, `politics.md`, `life.md`)**
+### **1. 世界观构建 (`worldbuilding/core.md`, `glosory.md`, `organization_*.md`, `politics.md`, `economics.md`, `.ideology.md`, `order.md`)**
 *   **核心冲突：文明竞赛 (The Civilizational Contest)**：故事的根基不再是简单的"个人反抗系统"，而是**一场关于美国灵魂乃至人类未来的文明竞赛**。这场"新冷战"在两个继承了美国的政治实体间展开：
     *   **美利坚协商共和国 (ACR)**：代表着技术理性、专业治理和一种"高效文明"的模式，通过"选票换面包"的社会契约维持统治。
     *   **美利坚自由邦联 (CAFS)**：代表着传统民主、个人参与和对旧美国宪政法统的坚守，承受着效率劣势但保留政治权利。

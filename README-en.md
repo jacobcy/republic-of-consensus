@@ -24,6 +24,23 @@ A political black comedy novel exploring AI-era governance philosophy.
 
 ### World Building
 - **[worldbuilding/](worldbuilding/)** - Worldview setting documents
+  - **`worldbuilding/core.md`** - Core worldview settings
+  - **`worldbuilding/timeline.md`** - Historical timeline
+  - **`worldbuilding/politics.md`** - Political legacy and hidden forces
+  - **`worldbuilding/organization_acr.md`** - Institutions and organizations of the ACR
+  - **`worldbuilding/organization_cafs.md`** - Institutions and organizations of the CAFS
+  - **`worldbuilding/charactor.md`** - Character bios and profiles
+  - **`worldbuilding/life.md`** - Daily Life in 2038 details
+  - **`worldbuilding/glosory.md`** - Terminology glossary
+  - **`worldbuilding/economic.md`** - Economic foundation
+  - **`worldbuilding/ideology.md`** - Ideological reconstruction
+  - **`worldbuilding/environment.md`** - Environment and ecology
+  - **`worldbuilding/infrastructure.md`** - Infrastructure
+  - **`worldbuilding/order.md`** - Social order
+  - **`worldbuilding/comment.md`** - Comments and reflections
+  - **`worldbuilding/constitution.md`** - US Constitution (Old World)
+  - **`worldbuilding/constitution_zh.md`** - US Constitution (Chinese)
+  - **`worldbuilding/anti_constitution.md`** - CAFS Human-Centered Manifesto
 - **[prompts/](prompts/)** - AI creative prompt templates
 - **[resources/](resources/)** - Creative resources and references
 
