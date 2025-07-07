@@ -77,7 +77,7 @@
 
 ### **FUS (家庭团结指数)**
 *Family Unity Index*
-- **衡量**: 由家庭生活AI（如`AVA`）根据家庭对话等数据计算的家庭和谐度。
+- **衡量**: 由家庭生活AI（如`AVA`）根据声调、互动频率等表面数据计算的家庭和谐度。
 
 ### **CCI (社区贡献指数)**
 *Community Contribution Index*
