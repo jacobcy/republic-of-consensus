@@ -73,16 +73,7 @@
 
 ---
 
-## III. 程序性机构：国民会议 (The Ceremonial Body: The National Conference)
-
-**国民会议**不属于五权体系的一部分。
-*   **定位**：名义上的最高国家权力机关，类似于一个“橡皮图章”议会。
-*   **职能**：每年召开一次，形式上负责批准由国家治理委员会（NGC）提交的国家预算、重大法案和宏观战略。其真正的作用是向国内外表演一场精心编排的、展示“全国共识”的政治仪式。
-*   **成员**：由来自各行各业的“模范公民”代表组成，他们的资格由考核院根据其社会贡献和系统忠诚度评定，是一种荣誉而非权力。
-
----
-
-## IV. 核心治理引擎：RESTORE AI (The Core Governance Engine: RESTORE AI)
+## III. 核心治理引擎：RESTORE AI (The Core Governance Engine: RESTORE AI)
 
 **定义**：**RESTORE AI**，全称为"资源、能源、社会、交通、组织与规则引擎" (Resource, Energy, Society, Transportation, Organization, and Rules Engine)，是ACR的中央AI治理系统。它不仅是数据分析工具，更是**社会运行的操作系统 (The Operating System of Society)**。
 
@@ -96,7 +87,7 @@
 
 ---
 
-## V. 地方治理：北弗吉尼亚示范区 (Local Governance: North Virginia Demonstration Zone)
+## IV. 地方治理：北弗吉尼亚示范区 (Local Governance: North Virginia Demonstration Zone)
 
 作为ACR的“文明橱窗”和对抗CAFS的“制度前线”，北弗吉尼亚的治理核心不是民主管理，而是**成果导向的区域运营 (Results-Oriented Regional Operation)**。其政府的每一个部门都被视为一个为实现“**最高效率、最优生活品质、最强制度吸引力**”三大KPI服务的专业团队。其地方政府结构是国家**五权体系**在地方的**镜像和简化**。
 
@@ -168,7 +159,7 @@
 
 ---
 
-## VI. 技术与制度的边界 (Boundaries of Technology and System)
+## V. 技术与制度的边界 (Boundaries of Technology and System)
 
 ### A. RESTORE AI的技术限制
 - **创造性任务**：无法替代人类的艺术创作、哲学思考和伦理判断。
@@ -193,7 +184,7 @@
 
 ---
 
-## VII. 核心合作企业 (Key Partner Corporations)
+## VI. 核心合作企业 (Key Partner Corporations)
 
 ACR与一些高度专业化的公私合营企业和研究机构保持紧密合作，这些机构通常由雅典娜理事会或NGC直接监管。
 

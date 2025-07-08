@@ -5,8 +5,8 @@ This directory contains the novel chapters organized by parts.
 ## Current Structure
 
 ### Part One: Consensus Republic Demonstration Zone
-- **Chapter 1**: Level-Two Systemic Stability Threat
-  - Chinese: [第1章_二级系统性稳定威胁.md](第一部分_协商共和国示范区/第1章_二级系统性稳定威胁.md)
+- **Chapter 1**: Level-Fore Systemic Stability Threat
+  - Chinese: [第1章_四级系统性稳定威胁.md](第一部分_协商共和国示范区/第1章_四级系统性稳定威胁.md)
   - English: [Chapter1_Level-Two_Systemic_Stability_Threat_EN.md](第一部分_协商共和国示范区/Chapter1_Level-Two_Systemic_Stability_Threat_EN.md)
 
 ### Part Two: The Only Candidate

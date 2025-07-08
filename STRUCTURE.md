@@ -45,14 +45,23 @@ manuscript/
 ### worldbuilding/ - 世界构建
 ```
 worldbuilding/
-├── core.md                     # 核心世界观设定
-├── life.md                     # 2038年生活图景
-├── timeline.md                 # 历史与角色时间线
-├── politics.md                 # 宏观政治
+├── anti_constitution.md        # cafs自由人民宣言
 ├── charactor.md                # 角色设定和传记
+├── comment.md                  # 评论与反思
+├── constitution_zh.md          # 协商共和国宪法 (中文)
+├── constitution.md             # 协商共和国宪法
+├── core.md                     # 核心世界观设定
+├── economic.md                 # 经济基础
 ├── glosory.md                  # 术语词汇表
+├── ideology.md                 # 意识形态重构
+├── infrastructure.md           # 基础设施
+├── life.md                     # 2038年生活图景
+├── order.md                    # 社会秩序
 ├── organization_acr.md         # 组织机构：ACR阵营
-└── organization_cafs.md        # 组织机构：CAFS阵营
+├── organization_cafs.md        # 组织机构：CAFS阵营
+├── politics.md                 # 宏观政治
+├── README.md                   # 世界观设定文档说明
+└── timeline.md                 # 历史与角色时间线
 ```
 
 ### prompts/ - AI创作提示
@@ -68,17 +77,19 @@ prompts/
 ### resources/ - 创作资源
 ```
 resources/
+├── ChatGPT-等额民主政治喜剧.md # 其他参考资料
 ├── style.md                    # 写作风格指南
 ├── quality_control.md          # 质量控制手册
 ├── memory.md                  # 项目记忆存档
 └── [其他参考资料]
 ```
 
-### repomix/ - 项目版本
+### repomix/ - 项目配置与版本管理
 ```
 repomix/
-├── 版本1.md                   # 项目早期版本
-└── 版本2.md                   # 项目更新版本
+├── bundles.json                 # Repomix 打包配置
+└── config/
+    └── GEMINI-repomix.config.json # Gemini Repomix 配置文件
 ```
 
 ---

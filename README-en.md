@@ -6,13 +6,13 @@ A political black comedy novel exploring AI-era governance philosophy.
 
 ## Project Overview
 
-*Republic of Consensus* is a political black comedy novel that explores fundamental questions of AI-era governance philosophy through the fictional "Consensus Republic" demonstration experiment.
+*Republic of Consensus* is a political black comedy novel that explores fundamental questions of AI-era governance philosophy through the fictional **American Consensus Republic (ACR)** and the **Confederacy of American Free States (CAFS)**. It delves into the civilizational cold war between these two entities, asking: when elites with disruptive technological power, weary of the old world's inefficiency and irrationality, exercise power under the guise of "rational authoritarianism," what is the value of democracy? What remains of human dignity and free will?
 
 ### Creative Features
-- **Political Black Comedy**: Serious treatment of absurd situations
-- **Institutional Reflection**: Exploring possibilities of different governance models
-- **Philosophical Inquiry**: Examining the relationship between technology and human nature
-- **AI-Assisted Creation**: Supporting AI-augmented creative writing
+- **Political Black Comedy**: Depicting the absurd "rationality" with the most serious, objective, and calm brushstrokes. Allowing the system (AI and officials) to defend itself with flawless, logically consistent language, thereby highlighting the underlying oppression and absurdity.
+- **Institutional Reflection**: Exploring the possibilities of different governance models, without providing definitive answers, guiding readers to ponder for themselves.
+- **Philosophical Inquiry**: Examining the relationship between technology and human nature, and the future of democratic values, personal choice, and human dignity under "benevolent authoritarianism."
+- **AI-Assisted Creation**: This project adopts a **human-led, AI-assisted** creative approach.
 
 ## Project Documentation
 
@@ -75,4 +75,4 @@ This project is licensed under an open source license. See the [LICENSE](LICENSE
 
 ---
 
-*"This is neither utopia nor dystopia—this is the result of rational choice."*
+*"In the perfect logic, let the reader feel a deep unease; in black humor, ponder the possibilities of humanity's future."*

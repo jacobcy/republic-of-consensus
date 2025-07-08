@@ -6,7 +6,7 @@ Delivered by a Free Citizen of the American Union — July 4th, 2036
 
 ---
 
-Seven years ago, upon the ruins of trust and the ashes of failing systems, they raised a new banner.
+Three years ago, upon the ruins of trust and the ashes of failing systems, they raised a new banner.
 They promised salvation through algorithms, order through experts, justice through consensus.
 Today, we gather not to praise their order—but to mourn our lost freedom.
 
@@ -87,7 +87,7 @@ Delivered by a Free Citizen of the American Union, July 4, 2036
 
 ---
 
-七年前，他们在废墟上立起一面新旗，宣称要以算法之名拯救人民，以专家之手铸造正义，以共识之术重建共和国。今日，我们在此集会，不是为了庆祝他们的秩序，而是为了哀悼我们失落的自由。
+三年前，他们在废墟上立起一面新旗，宣称要以算法之名拯救人民，以专家之手铸造正义，以共识之术重建共和国。今日，我们在此集会，不是为了庆祝他们的秩序，而是为了哀悼我们失落的自由。
 
 他们自称神圣，却从未俯身倾听一个农夫的忧惧或一位母亲的祈祷；
 他们自夸理性，却将人的灵魂简化为数据流与概率图；

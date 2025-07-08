@@ -1,4 +1,4 @@
-# Chapter 1: Level-Two Systemic Stability Threat
+# Chapter 1: Level-Fore Systemic Stability Threat
 
 ## Scene One: Family Theater
 
@@ -86,9 +86,9 @@ Just as Stephen put his glasses back on, preparing to give up and go home, all i
 
 He unconsciously held his breath.
 
-"**Alert: National Digital Industries RESTORE AI main system has detected SSTI-2, Level-Two Systemic Stability Threat.**"
+"**Alert: National Digital Industries RESTORE AI main system has detected SSTI-4, Level-Fore Systemic Stability Threat.**"
 
-Stephen's heart plummeted. SSTI-2—this was the highest alert level, second only to "lethal threat." He felt a mix of professional police fear and something deeper, almost like excitement. A real "problem" had appeared—a crude, unoptimizable "intruder" from the old world.
+Stephen's heart plummeted. SSTI-4—this was the highest alert level, second only to "lethal threat." He felt a mix of professional police fear and something deeper, almost like excitement. A real "problem" had appeared—a crude, unoptimizable "intruder" from the old world.
 
 A holographic interface appeared on his desk, displaying detailed information about the threat source—an encrypted communication software called "Messenger."
 
