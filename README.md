@@ -40,7 +40,7 @@
   - **`worldbuilding/comment.md`** - 评论与反思
   - **`worldbuilding/constitution.md`** - 协商共和国宪法
   - **`worldbuilding/constitution_zh.md`** - 协商共和国宪法 (中文)
-  - **`worldbuilding/anti_constitution.md`** - cafs人本宣言
+  - **`worldbuilding/anti_constitution.md`** - cafs自由人民宣言
 - **[prompts/](prompts/)** - AI创作提示模板
 - **[resources/](resources/)** - 创作资源和参考资料
 

@@ -79,7 +79,7 @@ We declare: The people shall govern. Not machines. Not managers. Not myths.
 
 ---
 
-人本宣言（The People shall govern）
+自由人民宣言（The People shall govern）
 
 Delivered by a Free Citizen of the American Union, July 4, 2036
 

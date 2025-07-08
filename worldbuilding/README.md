@@ -52,7 +52,7 @@
 ### **`constitution_zh.md` - 协商共和国宪法 (中文)**
 - 便于中文读者理解和参考。
 
-### **`anti_constitution.md` - cafs人本宣言**
+### **`anti_constitution.md` - cafs自由人民宣言**
 - cafs阵营揭露协商共和国宪法虚伪性的檄文。
 
 ### **`archive/` - 归档文件**
