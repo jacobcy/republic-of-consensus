@@ -34,7 +34,6 @@
   - **`worldbuilding/glosory.md`** - 术语词汇表
   - **`worldbuilding/economic.md`** - 经济基础
   - **`worldbuilding/ideology.md`** - 意识形态重构
-  - **`worldbuilding/environment.md`** - 环境与生态
   - **`worldbuilding/infrastructure.md`** - 基础设施
   - **`worldbuilding/order.md`** - 社会秩序
   - **`worldbuilding/comment.md`** - 评论与反思

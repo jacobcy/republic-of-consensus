@@ -34,9 +34,6 @@ This directory contains the core world-building elements for the *Republic of Co
 ### **ideology.md** - Ideological Reconstruction
 - Explores how the NGC legitimizes its rule through value reconstruction, replacing "political freedom" with "quality of life" and "voter authorization" with "professional capability."
 
-### **environment.md** - Environment and Ecology
-- Describes the achievements in environmental governance and ecological construction in the new world, as well as the impact of technology on the natural environment.
-
 ### **infrastructure.md** - Infrastructure
 - Introduces the advanced smart city, transportation, and energy infrastructure of the Republic of Consensus.
 

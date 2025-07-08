@@ -36,7 +36,6 @@ worldbuilding/           # World-building documents
 ├── glosory.md          # Terminology glossary
 ├── economic.md         # Economic foundation
 ├── ideology.md         # Ideological reconstruction
-├── environment.md      # Environment and ecology
 ├── infrastructure.md   # Infrastructure
 ├── order.md            # Social order
 ├── comment.md          # Comments and reflections

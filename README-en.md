@@ -34,7 +34,6 @@ A political black comedy novel exploring AI-era governance philosophy.
   - **`worldbuilding/glosory.md`** - Terminology glossary
   - **`worldbuilding/economic.md`** - Economic foundation
   - **`worldbuilding/ideology.md`** - Ideological reconstruction
-  - **`worldbuilding/environment.md`** - Environment and ecology
   - **`worldbuilding/infrastructure.md`** - Infrastructure
   - **`worldbuilding/order.md`** - Social order
   - **`worldbuilding/comment.md`** - Comments and reflections
